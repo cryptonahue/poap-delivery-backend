@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "poaps",
+  "info": {
+    "singularName": "poap",
+    "pluralName": "poaps",
+    "displayName": "poap"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "asd": {
+      "type": "string"
+    }
+  }
+}
